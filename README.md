@@ -1,6 +1,6 @@
 # Calculadora de Dias Úteis
 
-> **Projeto Prático: Desenvolvimento para a Disciplina de Linguagem de Programação Orientada a Objetos**
+> **Projeto Prático: Desenvolvimento para a Disciplina de Linguagem de Programação III (LP3)**
 
 > **Curso: Análise e Desenvolvimento de Sistemas (ADS) — IFSul Campus Venâncio Aires**
 
